@@ -31,3 +31,12 @@
 0.0.0.0 *.delivery.mp.microsoft.com
 
 0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 67.24.83.254.80
+0.0.0.0 *.au.windowsupdate.com
+0.0.0.0 *.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 *.delivery.mp.microsoft.com
+0.0.0.0 *.ws.microsoft.com
+0.0.0.0 *.mp.microsoft.com
+
+
+
