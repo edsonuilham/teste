@@ -1,31 +1,31 @@
-http://windowsupdate.microsoft.com
+0.0.0.0 windowsupdate.microsoft.com
 
-http://*.windowsupdate.microsoft.com
+0.0.0.0 *.windowsupdate.microsoft.com
 
-https://*.windowsupdate.microsoft.com
+0.0.0.0 *.windowsupdate.microsoft.com
 
-http://*.update.microsoft.com
+0.0.0.0 *.update.microsoft.com
 
-https://*.update.microsoft.com
+0.0.0.0 *.update.microsoft.com
 
-http://*.windowsupdate.com
+0.0.0.0 *.windowsupdate.com
 
-http://download.windowsupdate.com
+0.0.0.0 download.windowsupdate.com
 
-https://download.microsoft.com
+0.0.0.0 download.microsoft.com
 
-http://*.download.windowsupdate.com
+0.0.0.0 *.download.windowsupdate.com
 
-http://wustat.windows.com
+0.0.0.0 wustat.windows.com
 
-http://ntservicepack.microsoft.com
+0.0.0.0 ntservicepack.microsoft.com
 
-http://go.microsoft.com
+0.0.0.0 go.microsoft.com
 
-http://dl.delivery.mp.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
 
-https://dl.delivery.mp.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
 
-http://*.delivery.mp.microsoft.com
+0.0.0.0 *.delivery.mp.microsoft.com
 
-https://*.delivery.mp.microsoft.com
+0.0.0.0 *.delivery.mp.microsoft.com
