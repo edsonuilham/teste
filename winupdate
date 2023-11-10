@@ -1,35 +1,18 @@
 0.0.0.0 windowsupdate.microsoft.com
-
 0.0.0.0 *.windowsupdate.microsoft.com
-
 0.0.0.0 *.windowsupdate.microsoft.com
-
 0.0.0.0 *.update.microsoft.com
-
-0.0.0.0 *.update.microsoft.com
-
 0.0.0.0 *.windowsupdate.com
-
 0.0.0.0 download.windowsupdate.com
-
 0.0.0.0 download.microsoft.com
-
 0.0.0.0 *.download.windowsupdate.com
-
 0.0.0.0 wustat.windows.com
-
 0.0.0.0 ntservicepack.microsoft.com
-
 0.0.0.0 go.microsoft.com
-
 0.0.0.0 dl.delivery.mp.microsoft.com
-
 0.0.0.0 dl.delivery.mp.microsoft.com
-
 0.0.0.0 *.delivery.mp.microsoft.com
-
 0.0.0.0 *.delivery.mp.microsoft.com
-
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 67.24.83.254.80
 0.0.0.0 *.au.windowsupdate.com
@@ -37,6 +20,7 @@
 0.0.0.0 *.delivery.mp.microsoft.com
 0.0.0.0 *.ws.microsoft.com
 0.0.0.0 *.mp.microsoft.com
-
-
+0.0.0.0 	*.prod.do.dsp.mp.microsoft.com
+0.0.0.0 emdl.ws.microsoft.com
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 
