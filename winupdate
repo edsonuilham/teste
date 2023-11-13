@@ -20,7 +20,10 @@
 0.0.0.0 *.delivery.mp.microsoft.com
 0.0.0.0 *.ws.microsoft.com
 0.0.0.0 *.mp.microsoft.com
-0.0.0.0 	*.prod.do.dsp.mp.microsoft.com
+0.0.0.0 *.prod.do.dsp.mp.microsoft.com
 0.0.0.0 emdl.ws.microsoft.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
-
+0.0.0.0 3.au.download.windowsupdate.com
+0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 tile-service.weather.microsoft.com
