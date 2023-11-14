@@ -28,3 +28,5 @@
 127.0.0.0 dmd.metaservices.microsoft.com
 127.0.0.0 tile-service.weather.microsoft.com
 127.0.0.0 tlu.dl.delivery.mp.microsoft.com
+127.0.0.0 edgedl.me.gvt1.com
+127.0.0.0 *.me.gvt1.com
